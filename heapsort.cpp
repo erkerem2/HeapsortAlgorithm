@@ -1,4 +1,4 @@
-//Author Kerem Er 820210313
+//Author Kerem Er
 #include <iostream>
 #include <vector>
 #include <fstream>
